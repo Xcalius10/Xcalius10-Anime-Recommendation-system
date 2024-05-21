@@ -2,7 +2,7 @@
 
 Building anime recommendation system based only on user viewing history, Genre and other features.
 
-![table](https://wallpapercave.com/wp/wp5257135.jpg)
+![table](![download](https://github.com/Xcalius10/Xcalius10-Anime-Recommendation-system/assets/103929590/56b2d04b-3161-4cdd-a942-b9d9d6f488b8))
 
 ## DATASET
 This dataset is taken from : https://www.kaggle.com/CooperUnion/anime-recommendations-database?select=anime.csv <br/>
